@@ -307,31 +307,31 @@ annotations:
     reference: ''
     span:
       start: 57735
-      end: 59725
+      end: 59724
   06395569fe62485188a43b9895e12296:
     imgnum: 896
     reference: ''
     span:
-      start: 59727
-      end: 61710
+      start: 59726
+      end: 61709
   ad10edf3e05847d0a32fb9cef49c090f:
     imgnum: 897
     reference: ''
     span:
-      start: 61712
-      end: 63698
+      start: 61711
+      end: 63697
   9978415864d94138b7df7550a42ba7a2:
     imgnum: 898
     reference: ''
     span:
-      start: 63700
-      end: 65691
+      start: 63699
+      end: 65690
   61bc47927e7747fab13e806e6ffe22e7:
     imgnum: 899
     reference: ''
     span:
-      start: 65693
-      end: 66244
+      start: 65692
+      end: 66243
   4bea7bbe701549828e46cb2146bfab72:
     imgnum: 900
     reference: ''
